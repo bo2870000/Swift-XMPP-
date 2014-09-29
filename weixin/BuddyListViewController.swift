@@ -334,8 +334,12 @@ class BuddyListViewController: UITableViewController, ZtDL, XxDL {
                 }
             }
             
+            
+            
             //把相应的未读消息从未读消息组中移除
-            removeValueFromArray(currentBuddyName, &unreadList)
+//            removeValueFromArray(currentBuddyName, &unreadList)
+            unreadList = unreadList.filter{ $0.from != self.currentBuddyName }
+            
             
             //通知表格更新数据
             self.tableView.reloadData()

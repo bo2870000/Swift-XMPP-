@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4B1CB92-8CE1-47D9-B4C9-6361A6D65423</string>
+	<key>IDESourceControlProjectName</key>
+	<string>weixin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F73E594CF4EEE4B543683FFB3F32924D055FDBE0</key>
+		<string>https://github.com/bo2870000/Swift-XMPP-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>weixin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F73E594CF4EEE4B543683FFB3F32924D055FDBE0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bo2870000/Swift-XMPP-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F73E594CF4EEE4B543683FFB3F32924D055FDBE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F73E594CF4EEE4B543683FFB3F32924D055FDBE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>weixin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
